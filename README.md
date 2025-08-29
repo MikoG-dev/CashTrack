@@ -41,23 +41,23 @@ It helps users register/login, record their income and expenses, and generate re
    cd cashtrack
    ```
 
-2. Setup backend
+2. **Setup backend**
 
-cd backend
-npm install
-npm start
+   cd backend
+   npm install
+   npm start
 
-3. Setup frontend
+3. **Setup frontend**
 
-cd frontend
-npm install
-npm run dev
+   cd frontend
+   npm install
+   npm run dev
 
-4. Database setup
+4. **Database setup**
 
-Import the SQL file (cashbook.sql) into MySQL
+   Import the SQL file (cashbook.sql) into MySQL
 
-Update backend/config/db.js with your DB credentials
+   Update backend/config/db.js with your DB credentials
 
 📌 Improvements To Work On
 
