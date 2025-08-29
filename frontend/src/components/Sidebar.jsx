@@ -34,7 +34,7 @@ export default function Sidebar({ collapsed, setCollapsed }) {
     >
       {/* Header with optional close button */}
       <div className="d-flex align-items-center justify-content-between p-3">
-        {!collapsed && <h3 className="mb-0">CashBook</h3>}
+        {!collapsed && <h3 className="mb-0">CashTrack</h3>}
 
         {/* Close button only on mobile */}
         {isMobile && !collapsed && (
