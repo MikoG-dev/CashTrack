@@ -41,17 +41,17 @@ It helps users register/login, record their income and expenses, and generate re
    cd cashtrack
    ```
 
-2. **Setup backend**
+**Setup backend**
 
-   cd backend
-   npm install
-   npm start
+    cd backend
+    npm install
+    npm start
 
-3. **Setup frontend**
+**Setup frontend**
 
-   cd frontend
-   npm install
-   npm run dev
+    cd frontend
+    npm install
+    npm run dev
 
 4. **Database setup**
 
