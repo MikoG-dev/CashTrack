@@ -14,7 +14,9 @@ It helps users register/login, record their income and expenses, and generate re
 <img src="assets/report.png" alt="Report" width="45%"/>
 <img src="assets/register.png" alt="Register" width="45%"/>
 </p>
+<p align="center">
 <img src="assets/login.png" alt="login" width="45%"/>
+</p>
 
 ---
 
