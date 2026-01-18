@@ -6,12 +6,15 @@ It helps users register/login, record their income and expenses, and generate re
 ---
 
 ## 📷 Screenshots
-
-<img src="assets/dashboard.png" alt="Dashboard" width="30%"/>
-<img src="assets/expense.png" alt="Expense/income pages" width="30%"/>
-<img src="assets/report.png" alt="Report" width="30%"/>
-<img src="assets/register.png" alt="Register" width="30%"/>
-<img src="assets/login.png" alt="login" width="30%"/>
+<p align="center">
+<img src="assets/dashboard.png" alt="Dashboard" width="45%"/>
+<img src="assets/expense.png" alt="Expense/income pages" width="45%"/>
+</p>
+<p align="center">
+<img src="assets/report.png" alt="Report" width="45%"/>
+<img src="assets/register.png" alt="Register" width="45%"/>
+</p>
+<img src="assets/login.png" alt="login" width="45%"/>
 
 ---
 
