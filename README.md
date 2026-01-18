@@ -5,6 +5,16 @@ It helps users register/login, record their income and expenses, and generate re
 
 ---
 
+## 📷 Screenshots
+
+<img src="assets/dashboard.png" alt="Dashboard" width="45%"/>
+<img src="assets/expense.png" alt="Expense/income pages" width="45%"/>
+<img src="assets/report.png" alt="Report" width="45%"/>
+<img src="assets/register.png" alt="Register" width="45%"/>
+<img src="assets/login.png" alt="login" width="45%"/>
+
+---
+
 ## 🚀 Features
 
 - 🔐 **Authentication** – Login & Registration system
@@ -23,14 +33,6 @@ It helps users register/login, record their income and expenses, and generate re
 - **Database:** MySQL
 
 ---
-
-## 📷 Screenshots
-
-<img src="assets/dashboard.png" alt="Dashboard" width="600"/>
-<img src="assets/expense.png" alt="Expense/income pages" width="600"/>
-<img src="assets/report.png" alt="Report" width="600"/>
-<img src="assets/register.png" alt="Register" width="600"/>
-<img src="assets/login.png" alt="login" width="600"/>
 
 ## ⚙️ Setup & Installation
 
